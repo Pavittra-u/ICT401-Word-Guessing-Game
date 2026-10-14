@@ -1,0 +1,5 @@
+ALGORITHM|A set of steps used to solve a problem
+CYBERSECURITY|Protection of computers and digital information
+PROGRAMMING|The process of writing computer instructions
+ENCRYPTION|A method used to protect information
+POLYMORPHISM|An object-oriented programming concept

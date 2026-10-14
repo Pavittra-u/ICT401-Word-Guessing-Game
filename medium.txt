@@ -1,0 +1,5 @@
+PYTHON|A popular programming language
+AIRPORT|A place where airplanes arrive and leave
+LIBRARY|A place where people borrow books
+NETWORK|Computers connected together
+DATABASE|A collection of organised data

@@ -1,0 +1,5 @@
+APPLE|A red or green fruit
+HOUSE|A place where people live
+WATER|You drink this when you are thirsty
+CHAIR|You sit on this
+MUSIC|You listen to this
